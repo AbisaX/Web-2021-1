@@ -10,5 +10,5 @@ $header ='From: Abisaid <abisaidgc@ufps.edu.co>' . "\r\n" .
 'X-Mailer: PHP/' . phpversion();
 
 mail($correo,$asunto,$mensaje,$header);
-header(index.html);
+header("index.html");
 ?>
