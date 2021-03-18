@@ -1,0 +1,48 @@
+body{
+	background: grey;
+	width:1000px;
+}
+
+form{
+	border:1px solid black;
+	padding:10px;
+	margin:10px;
+}
+
+
+div{
+	width:1000px;
+	display:flex;
+	
+}
+
+label{
+	width:45%;
+	background:cyan;
+	margin:5px;
+	font-family:Algerian,Arial,Helvetica;
+	
+}
+
+
+input{
+width:45%;	
+background:green;
+color:black;
+font-family:Algerian,Arial,Helvetica;
+}
+
+textarea{
+	width:45%;
+	background:green;
+	
+color:black;
+font-family:Algerian,Arial,Helvetica;
+}
+button{
+	width:45%;
+	background:green;
+color:black;
+font-family:Algerian,Arial,Helvetica;
+margin:5px;
+};
