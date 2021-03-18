@@ -1,5 +1,5 @@
 body{
-	background: grey;
+	background: #93dbac;
 	width:1000px;
 }
 
@@ -18,7 +18,8 @@ div{
 
 label{
 	width:45%;
-	background:cyan;
+	background:#faf3d6;
+	color:blue;
 	margin:5px;
 	font-family:Algerian,Arial,Helvetica;
 	
@@ -27,22 +28,22 @@ label{
 
 input{
 width:45%;	
-background:green;
-color:black;
+background:#9c532e;
+color:#faf3d6;
 font-family:Algerian,Arial,Helvetica;
 }
 
 textarea{
 	width:45%;
-	background:green;
+	background:#9c532e;
 	
-color:black;
+color:#faf3d6;
 font-family:Algerian,Arial,Helvetica;
 }
 button{
 	width:45%;
-	background:green;
-color:black;
+	background:#9c532e;
+color:#faf3d6;
 font-family:Algerian,Arial,Helvetica;
 margin:5px;
 };
