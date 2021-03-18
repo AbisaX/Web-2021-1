@@ -1,5 +1,5 @@
 body{
-	background: grey;
+	background: #93dbac;
 	width:1000px;
 }
 
@@ -10,14 +10,15 @@ padding:10px;
 
 h1{
 	text-align:center;
+	color:#9c532e;
 font-family:Algerian,Arial,Helvetica;
 margin:10px;
 padding:10px;	
 }
 
 a{
-	color:black;
-	background:white;
+	color:#9c532e;
+	background:#faf3d6;
 	margin:10px;
 padding:10px;
 }
@@ -25,27 +26,29 @@ padding:10px;
 h2{
 	text-align:center;
 	font-family:Algerian,Arial,Helvetica;
-	color:yellow;
+	color:#9c532e;
 	margin:10px;
 padding:10px;
 }
 
 p{
 width:1000px;
-background:cyan;
+background:#faf3d6;
+color:#04d3d3;
 margin:10px;
 padding:10px;	
 }
 
 li{
-	background:cyan;
+	background:#faf3d6;
+	color:#04d3d3;
 	margin:3px;
     padding:3px;
 }
 
 h3{
 	font-family:Algerian,Arial,Helvetica;
-	color:blue;
+	color:#9c532e;
 	margin:10px;
 padding:10px;
 
@@ -56,9 +59,9 @@ color:black;
 }
 
 table{
-	color:white;
-	background:green;
-	border-color:black;
+	color:#faf3d6;
+	background:#9c532e;
+	border-color:#faf3d6;
 	width:1000px;
 	margin:10px;
     padding:10px;
